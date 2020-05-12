@@ -1,1 +1,5 @@
-module.exports = {};
+module.exports = {
+
+  testTimeout: 1000
+
+};
